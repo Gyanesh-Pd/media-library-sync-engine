@@ -1,0 +1,10 @@
+{
+  "Deep House Mix": {
+    "url": "https://example.com/playlist?list=PLAYLIST_ID_1",
+    "enabled": true
+  },
+  "Ambient Sessions": {
+    "url": "https://example.com/playlist?list=PLAYLIST_ID_2",
+    "enabled": false
+  }
+}
