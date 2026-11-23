@@ -1,0 +1,10 @@
+playlists.json
+master_sync_log.txt
+session_log.txt
+track_map.json
+archive.txt
+*.mp3
+*.webm
+*.m4a
+*.part
+*.ytdl
